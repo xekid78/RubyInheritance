@@ -1,0 +1,2 @@
+# RubyInheritance
+継承
